@@ -67,17 +67,3 @@ Being a good team member in software development means recognizing that code is 
 
 Working in the SNHU Travel project, I learned that the most technically skilled developer on a siloed team delivers less value than a moderately skilled developer working in an effective, collaborative environment. Scrum's emphasis on team accountability and shared ownership—not individual heroics—creates sustainable, high-performing teams that deliver quality software consistently.
 
----
-
-## Conclusion
-
-This capstone project reinforced a fundamental truth: great software comes from great collaboration. User stories keep us focused on value. Agile processes keep us responsive to change. Good team members keep us moving together toward shared goals. As I move forward in my software development career, these principles—empathy for users, iterative improvement, and team-first thinking—will guide how I approach every project.
-
----
-
-## References
-
-- Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide: The Definitive Guide to Scrum: The Rules of the Game*. Scrum.org
-- Atlassian. (2025). Agile Project Management. Retrieved from https://www.atlassian.com/agile
-- IBM. (2024). Software Development Life Cycle. Retrieved from https://www.ibm.com/cloud/learn/sdlc
-- Microsoft. (2024). DevOps and Agile Practices. Retrieved from https://docs.microsoft.com/en-us/azure/devops/learn/what-is-agile
